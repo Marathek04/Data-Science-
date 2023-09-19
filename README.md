@@ -1,3 +1,2 @@
 Data Science
-
-PYthon is high level open source language.
+This repository contains the projects i have done as a data analyst.
